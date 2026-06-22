@@ -17,7 +17,7 @@ const rawPikachu = {
   id: 25,
   name: 'pikachu',
   height: 4, // decimeters
-  
+  weight: 60, // hectograms
   sprites: {
     front_default: 'sprite.png',
     other: { 'official-artwork': { front_default: 'artwork.png' } }
